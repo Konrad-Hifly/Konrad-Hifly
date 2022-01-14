@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konrad-Hifly
 - 👀 I’m interested in EVERYTHING CS
-- 🌱 I’m currently learning about SSIS, Datawarehouses and SQL
+- 🌱 I’m currently working on dbt and Databricks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me konrad.drexler@hiflylabs.com
 
